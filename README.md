@@ -1,23 +1,56 @@
 # 🗂️ Portafolio — Roberto López
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás los proyectos que he desarrollado como parte de mi formación y experiencia profesional en Ingeniería en Sistemas Computacionales.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás algunos de los proyectos que he desarrollado durante mi formación y trayectoria como desarrollador de software.
+
+Mi objetivo es crear soluciones de software funcionales, mantener buenas prácticas de desarrollo y continuar creciendo profesionalmente en el área de Ingeniería de Software.
 
 ---
 
 ## 📁 Mis Proyectos
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [🏆 Sistema de Fidelización de Clientes](https://github.com/robertolop/sistema-fidelizacion) | Sistema web full stack para gestión de puntos y recompensas de clientes. Incluye portal cliente, integración POS, alertas por correo y panel de administración. Proyecto de tesis en producción. | React, Node.js, Express, MySQL |
-| [📱 Punta Diamantes App](https://github.com/robertolop/punta-diamantes) | Aplicación móvil desarrollada con React Native para el sistema de fidelización de clientes Punta Diamantes. | React Native, JavaScript |
-| [⚙️ Compilador JS](https://github.com/robertolop/compilador-js) | Compilador de JavaScript desarrollado en C, con análisis léxico, sintáctico y semántico. | C, Flex, Bison |
+### 🏆 Sistema de Fidelización de Clientes
+
+Sistema web orientado a la gestión de clientes, puntos, beneficios y transacciones, desarrollado como proyecto de tesis.
+
+El sistema contempla funcionalidades para la gestión de clientes, escenarios de fidelización, beneficios y operaciones relacionadas con puntos y transacciones.
+
+**Tecnologías:**
+`React` · `TypeScript` · `Node.js` · `Express` · `MySQL`
+
+🔗 [Ver repositorio](https://github.com/robertolop/sistema-fidelizacion)
+
+---
+
+### 📱 Punta Diamantes App
+
+Aplicación móvil desarrollada para complementar el sistema de fidelización de clientes Punta Diamantes.
+
+El proyecto está orientado a ofrecer una experiencia móvil para los usuarios del sistema.
+
+**Tecnologías:**
+`React Native` · `JavaScript`
+
+🔗 [Ver repositorio](https://github.com/robertolop/punta-diamantes)
+
+---
+
+### ⚙️ Compilador JS
+
+Compilador de JavaScript desarrollado en C como proyecto académico, incorporando diferentes etapas del proceso de compilación.
+
+El proyecto contempla análisis léxico, sintáctico y semántico mediante herramientas especializadas.
+
+**Tecnologías:**
+`C` · `Flex` · `Bison`
+
+🔗 [Ver repositorio](https://github.com/robertolop/compilador-js)
 
 ---
 
 ## 🌐 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberto-lopez-b31898394)
-- 📧 [roberto.arevalo.456@gmail.com](mailto:roberto.arevalo.456@gmail.com)
+- 📧 [Correo electrónico](mailto:roberto.arevalo.456@gmail.com)
 - 🐙 [GitHub](https://github.com/robertolop)
 
 ---
