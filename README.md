@@ -47,6 +47,19 @@ El proyecto contempla análisis léxico, sintáctico y semántico mediante herra
 
 ---
 
+### 🛒 Tienda Virtual
+
+Tienda en línea desarrollada en PHP con arquitectura MVC propia, sin framework, que incluye catálogo de productos, carrito de compras y proceso de pago en línea.
+
+El proyecto contempla un panel administrativo para la gestión de productos, categorías, pedidos y clientes, con control de acceso por roles y permisos.
+
+**Tecnologías:**
+`PHP` · `MySQL` · `JavaScript` · `Bootstrap` · `API de PayPal`
+
+🔗 [Ver repositorio](https://github.com/robertolop/tienda-virtual)
+
+---
+
 ## 🌐 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberto-lopez-b31898394)
