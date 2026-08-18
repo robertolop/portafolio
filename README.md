@@ -8,7 +8,7 @@ Mi objetivo es crear soluciones de software funcionales, mantener buenas prácti
 
 ## 📁 Mis Proyectos
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 ---
 
