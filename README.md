@@ -8,8 +8,6 @@ Mi objetivo es crear soluciones de software funcionales, mantener buenas prácti
 
 ## 📁 Mis Proyectos
 
-###  Proyectos Destacados
-
 ---
 
 ### 🏆 Sistema de Fidelización de Clientes
@@ -33,10 +31,6 @@ Tienda virtual de productos tecnológicos con catálogo organizado por categorí
 `WordPress` · `WooCommerce` · `PHP` · `MySQL` · `JavaScript` · `CSS`
 
 🔗 [Ver sitio en vivo](https://techshopp.shop)
-
----
-
-### 📂 Otros Proyectos
 
 ---
 
@@ -66,7 +60,7 @@ El proyecto contempla análisis léxico, sintáctico y semántico mediante herra
 
 ---
 
-### 🏪 Tienda Virtual PHP
+### Tienda Virtual PHP
 
 Tienda en línea desarrollada en PHP con arquitectura MVC propia, sin framework, que incluye catálogo de productos, carrito de compras y proceso de pago en línea.
 
