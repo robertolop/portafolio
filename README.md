@@ -6,11 +6,19 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás los proyectos que he
 
 ## 📁 Mis Proyectos
 
+### 🚀 Proyectos Destacados
+
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🏆 Sistema de Fidelización de Clientes](https://github.com/robertolop/sistema-fidelizacion) | Sistema web full stack para gestión de puntos y recompensas de clientes. Incluye portal cliente, integración POS, alertas por correo y panel de administración. Proyecto de tesis en producción. | React, Node.js, Express, MySQL |
-| [📱 Punta Diamantes App](https://github.com/robertolop/punta-diamantes) | Aplicación móvil desarrollada con React Native para el sistema de fidelización de clientes Punta Diamantes. | React Native, JavaScript |
-| [⚙️ Compilador JS](https://github.com/robertolop/compilador-js) | Compilador de JavaScript desarrollado en C, con análisis léxico, sintáctico y semántico. | C, Flex, Bison |
+| [🏆 Sistema de Fidelización de Clientes](https://github.com/robertolop/sistema-fidelizacion) | Sistema web full stack para gestión de puntos y recompensas. Portal cliente, integración POS, alertas por correo y panel de administración. Proyecto de tesis en producción. | React, Node.js, Express, MySQL, JWT |
+| [🛒 TechShop — Tienda Virtual](https://techshopp.shop) | Tienda virtual de productos tecnológicos con catálogo, carrito, gestión de clientes, promociones y diseño responsive. | WordPress, WooCommerce, PHP, MySQL |
+
+### 📂 Otros Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [📱 Punta Diamantes App](https://github.com/robertolop/punta-diamantes) | Aplicación móvil del sistema de fidelización de clientes Punta Diamantes. | React Native, JavaScript |
+| [⚙️ Compilador JS](https://github.com/robertolop/compilador-js) | Compilador de JavaScript con análisis léxico, sintáctico y semántico. | C, Flex, Bison |
 
 ---
 
