@@ -8,21 +8,10 @@ Mi objetivo es crear soluciones de software funcionales, mantener buenas prácti
 
 ## 📁 Mis Proyectos
 
-<<<<<<< HEAD
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [🏆 Sistema de Fidelización de Clientes](https://github.com/robertolop/sistema-fidelizacion) | Sistema web full stack para gestión de puntos y recompensas. Portal cliente, integración POS, alertas por correo y panel de administración. Proyecto de tesis en producción. | React, Node.js, Express, MySQL, JWT |
-| [🛒 TechShop — Tienda Virtual](https://techshopp.shop) | Tienda virtual de productos tecnológicos con catálogo, carrito, gestión de clientes, promociones y diseño responsive. | WordPress, WooCommerce, PHP, MySQL |
+---
 
-### 📂 Otros Proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [📱 Punta Diamantes App](https://github.com/robertolop/punta-diamantes) | Aplicación móvil del sistema de fidelización de clientes Punta Diamantes. | React Native, JavaScript |
-| [⚙️ Compilador JS](https://github.com/robertolop/compilador-js) | Compilador de JavaScript con análisis léxico, sintáctico y semántico. | C, Flex, Bison |
-=======
 ### 🏆 Sistema de Fidelización de Clientes
 
 Sistema web orientado a la gestión de clientes, puntos, beneficios y transacciones, desarrollado como proyecto de tesis.
@@ -30,9 +19,24 @@ Sistema web orientado a la gestión de clientes, puntos, beneficios y transaccio
 El sistema contempla funcionalidades para la gestión de clientes, escenarios de fidelización, beneficios y operaciones relacionadas con puntos y transacciones.
 
 **Tecnologías:**
-`React` · `TypeScript` · `Node.js` · `Express` · `MySQL`
+`React` · `TypeScript` · `Node.js` · `Express` · `MySQL` · `JWT`
 
 🔗 [Ver repositorio](https://github.com/robertolop/sistema-fidelizacion)
+
+---
+
+### 🛒 TechShop — Tienda Virtual E-commerce
+
+Tienda virtual de productos tecnológicos con catálogo organizado por categorías, carrito de compras, gestión de cuentas de clientes, promociones, sección de noticias y diseño responsive. Actualmente en producción.
+
+**Tecnologías:**
+`WordPress` · `WooCommerce` · `PHP` · `MySQL` · `JavaScript` · `CSS`
+
+🔗 [Ver sitio en vivo](https://techshopp.shop)
+
+---
+
+### 📂 Otros Proyectos
 
 ---
 
@@ -62,7 +66,7 @@ El proyecto contempla análisis léxico, sintáctico y semántico mediante herra
 
 ---
 
-### 🛒 Tienda Virtual
+### 🏪 Tienda Virtual PHP
 
 Tienda en línea desarrollada en PHP con arquitectura MVC propia, sin framework, que incluye catálogo de productos, carrito de compras y proceso de pago en línea.
 
@@ -72,7 +76,6 @@ El proyecto contempla un panel administrativo para la gestión de productos, cat
 `PHP` · `MySQL` · `JavaScript` · `Bootstrap` · `API de PayPal`
 
 🔗 [Ver repositorio](https://github.com/robertolop/tienda-virtual)
->>>>>>> 7e5c1ee3e97327b9833934c1c7b7673581861357
 
 ---
 
